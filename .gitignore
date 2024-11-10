@@ -1,0 +1,13 @@
+api/model/dataset/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+
+# Ignore other temporary files (like IDE or OS files)
+*.log
+*.DS_Store
